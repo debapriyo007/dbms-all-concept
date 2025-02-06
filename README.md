@@ -2,21 +2,10 @@
 
 This repository contains a collection of SQL scripts covering various database operations, including table creation, data manipulation, joins, aggregate functions, and advanced queries. It serves as a comprehensive reference for anyone looking to revise or enhance their SQL skills.
 
-## 📌 What's Inside?
-
- 🔹 **Table Creation & Data Insertion** – Scripts for defining tables and inserting records.  
- 🔹 **Data Retrieval** – Queries using `SELECT`, `WHERE`, `ORDER BY`, and `LIMIT`.  
- 🔹 **Aggregate Functions** – Using `AVG()`, `COUNT()`, `MAX()`, `MIN()` for data analysis.  
- 🔹 **Joins (INNER, LEFT, RIGHT, FULL)** – Combining multiple tables efficiently.  
- 🔹 **Foreign Keys & Relationships** – Defining and managing relational data.  
- 🔹 **Table Modifications** – Adding, deleting, and updating table structures.  
- 🔹 **Advanced Queries** – Subqueries, self joins, and optimization techniques.  
- 🔹 **Indexing & Performance Optimization** – Enhancing query efficiency.  
-
 ## 🎯 Who is this for?
 
  ✅ **SQL Beginners & Learners.**  
- ✅ **Interview Preparation & Competitive Programming.**  
+ ✅ **Interview Preparation.**  
  ✅ **Anyone looking for quick SQL reference.**  
 
 
